@@ -1,15 +1,15 @@
 <h2>Hello peeps<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sauraj!</h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=dracula&count_private=true&show_icons=true)](https://github.com/noobyysauraj?tab=repositories)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true](https://github.com/noobyysauraj?tab=repositories)
 
 <a href="https://github.com/noobyysauraj">
 
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=noobyysauraj&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact" />
 </a>
 
 <br />
 <br />
-<a href="https://twitter.com/sauraj__">
+<a href="https://twitter.com/ksauraj">
   <img align="left" alt="Sauraj | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ksauraj">
