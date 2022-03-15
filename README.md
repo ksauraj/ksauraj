@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/noobyysauraj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true" />
 </a>
 
 <br />
