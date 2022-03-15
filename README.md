@@ -1,9 +1,9 @@
 <h2>Hello peeps<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sauraj!</h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/noobyysauraj?tab=repositories)
-
 <a href="https://github.com/noobyysauraj">
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/noobyysauraj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact" />
 </a>
 
