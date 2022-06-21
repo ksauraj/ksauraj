@@ -1,5 +1,4 @@
-<h2>Hello peeps<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sauraj!</h2>
-
+<h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
 <a href="https://github.com/noobyysauraj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 </a>
@@ -9,11 +8,11 @@
 
 <br />
 <br />
-<a href="https://twitter.com/ksauraj">
-  <img align="left" alt="Sauraj | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/k_sauraj">
+  <img align="left" alt="My Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ksauraj">
-  <img align="left" alt="Sauraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="My Telegram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://youtube.com/c/SaurajGaming">
   <img align="left" alt="My YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
