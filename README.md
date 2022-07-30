@@ -45,5 +45,5 @@
 </a>
 </p>
 <p align="center">
-<a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>
+<img src="https://madewithlove.now.sh/in?colorB=%23ec4d18&text=India+By+Ksauraj" alt="Made with love in India By Ksauraj">
 </p>
