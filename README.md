@@ -1,5 +1,6 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
 ### ⚙️ &nbsp;Sauraj's GitHub Analytics
+<br />
 <p align="center">
 <a href="https://github.com/noobyysauraj">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
@@ -9,8 +10,6 @@
 </a>
 </p>
 <br/>
-<br />
-<br />
 <a href="https://twitter.com/k_sauraj">
   <img align="left" alt="My Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
