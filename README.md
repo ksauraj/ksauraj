@@ -1,10 +1,14 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
+### ⚙️ &nbsp;Sauraj's GitHub Analytics
+<p align="center">
 <a href="https://github.com/noobyysauraj">
-  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/noobyysauraj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" />
 </a>
+</p>
+<br/>
 <br />
 <br />
 <a href="https://twitter.com/k_sauraj">
