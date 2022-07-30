@@ -1,5 +1,14 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
-### ⚙️ &nbsp;Sauraj's GitHub Analytics
+
+- 🌱 I’m currently a 12th grade student.
+- 👀 Languages/Tools I know are Bash, Python, C/C++ (basics).
+- 💞️ I've keen interest in AI and Data Science.
+- 👀 I’m interested in automating stuffs.
+- 📱 Devices I own are Realme 7 and Mi A2.
+- ✔️ Looking forward to get into a college and be completely focused.
+- 📫 You can reach me through telegram @Ksauraj.
+
+⚙️ &nbsp;Sauraj's GitHub Analytics
 <br/>
 <br/>
 <p align="center">
