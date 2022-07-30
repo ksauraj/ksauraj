@@ -8,8 +8,7 @@
 - ✔️ Looking forward to get into a college and be completely focused.
 - 📫 You can reach me through telegram @Ksauraj.
 
-⚙️ &nbsp;Sauraj's GitHub Analytics
-<br/>
+### ⚙️ &nbsp;Sauraj's GitHub Analytics
 <br/>
 <p align="left">
 <a href="https://github.com/noobyysauraj">
@@ -19,6 +18,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" />
 </a>
 </p>
+<p align = "left">
+ <img src="https://activity-graph.herokuapp.com/graph?username=noobyysauraj&theme=react-dark">
+</p>  
 
 ### 💻 Current working environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
