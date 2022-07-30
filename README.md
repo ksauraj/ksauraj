@@ -1,6 +1,6 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
 <a href="https://github.com/noobyysauraj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobyysauraj&theme=vision-friendly-dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/noobyysauraj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobyysauraj&theme=vision-friendly-dark&count_private=true&layout=compact" />
