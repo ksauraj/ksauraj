@@ -32,16 +32,16 @@
 
 <p align = "center">
 <a href="https://twitter.com/k_sauraj">
-  <img alt="My Twitter account" width="44px" style="margin: 5px 5px 30px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="My Twitter account" width="44px" style="margin: 5px 5px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ksauraj">
-  <img alt="My Telegram account" width="44px" style="margin: 5px 5px 30px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="My Telegram account" width="44px" style="margin: 5px 5px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://youtube.com/c/SaurajGaming">
-  <img alt="My YouTube" width="44px" style="margin: 5px 5px 30px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img alt="My YouTube" width="44px" style="margin: 5px 5px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  
   <a href="https://forum.xda-developers.com/m/ksauraj.11493659/">
-  <img alt="My XDA" width="44px" style="margin: 5px 5px 30px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
+  <img alt="My XDA" width="44px" style="margin: 5px 5px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
 </a>
 </p>
 <br />
