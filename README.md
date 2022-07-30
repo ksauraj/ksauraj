@@ -45,5 +45,5 @@
 </a>
 </p>
 <p align="center">
-<img src="https://madewithlove.now.sh/in?colorB=%23ec4d18&text=India+By+Ksauraj" alt="Made with love in India By Ksauraj">
+<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23d84141&text=India+By+Ksauraj" alt="Made with love in India By Ksauraj">
 </p>
