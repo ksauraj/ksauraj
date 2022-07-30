@@ -9,7 +9,6 @@
 - 📫 You can reach me through telegram @Ksauraj.
 
 ### ⚙️ &nbsp;Sauraj's GitHub Analytics
-<br/>
 <p align="left">
 <a href="https://github.com/noobyysauraj">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
