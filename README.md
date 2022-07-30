@@ -44,5 +44,7 @@
   <img alt="My XDA" width="44px" style="margin: 5px 5px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
 </a>
 </p>
-<br />
+<br/>
+<p align="center">
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+</p>
