@@ -3,7 +3,7 @@
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=noobyysauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/noobyysauraj">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?noobyysauraj" frameborder="0"></iframe>
+  <img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?noobyysauraj" />
 </a>
 <br />
 <br />
