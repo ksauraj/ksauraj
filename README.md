@@ -1,7 +1,7 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
 
 - 🌱 I’m currently a 12th grade student.
-- 👀 Languages/Tools I know are Bash, Python, C/C++ (basics).
+- 👀 Languages/Tools I know are Bash, Python, C/C++ (basics), HTML5, CSS, JAVA (basics).
 - 💞️ I've keen interest in AI and Data Science.
 - 👀 I’m interested in automating stuffs.
 - 📱 Devices I own are Realme 7 and Mi A2.
@@ -30,19 +30,20 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
+<p align = "center">
 <a href="https://twitter.com/k_sauraj">
-  <img align="left" alt="My Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="My Twitter account" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ksauraj">
-  <img align="left" alt="My Telegram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="My Telegram account" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://youtube.com/c/SaurajGaming">
-  <img align="left" alt="My YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img alt="My YouTube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  
   <a href="https://forum.xda-developers.com/m/ksauraj.11493659/">
-  <img align="left" alt="My XDA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
+  <img alt="My XDA" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
 </a>
-
+</p>
 <br />
 <br />
 
