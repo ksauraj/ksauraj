@@ -21,6 +21,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=noobyysauraj&theme=react-dark">
 </p>  
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/noobyysauraj?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.skipped=idk-but-i-have-to-do-it%2C%20rehan_mirror_bot&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo)
+
 ### 💻 Current working environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
