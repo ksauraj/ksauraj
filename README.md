@@ -18,7 +18,7 @@
 </a>
 </p>
 <p align = "left">
- <img src="https://activity-graph.herokuapp.com/graph?username=noobyysauraj&theme=react-dark">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=noobyysauraj&theme=high-contrast">
 </p>  
 
 [![@noobyysauraj's Holopin board](https://holopin.io/api/user/board?user=noobyysauraj)](https://holopin.io/@noobyysauraj)
