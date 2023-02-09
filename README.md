@@ -30,19 +30,8 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-<p align = "center">
-<a href="https://twitter.com/k_sauraj">
-  <img alt="My Twitter account" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/ksauraj">
-  <img alt="My Telegram account" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://youtube.com/c/SaurajGaming">
-  <img alt="My YouTube" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>  
-  <a href="https://forum.xda-developers.com/m/ksauraj.11493659/">
-  <img alt="My XDA" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=noobyysauraj&rank=-C,-B&theme=dark_lover)
+
 </p>
 <p align="center">
 <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23d84141&text=India+By+Ksauraj" alt="Made with love in India By Ksauraj">
