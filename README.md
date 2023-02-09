@@ -1,11 +1,11 @@
 <h2>Welcome! <a href="https://github.com/noobyysauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=noobyysauraj" alt="Visitors"></a></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%8C%B1+Currently+a+12th+grade+student.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%91%80+Languages%2FTools+I+know+are+Bash%2C+Python%2C+C%2FC%2B%2B+(basics)%2C+HTML5%2C+CSS%2C+JAVA+(basics).)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%92%9E%EF%B8%8F+I've+keen+interest+in+AI+and+Data+Science.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%91%80+I%E2%80%99m+interested+in+automating+stuffs.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%93%B1+Devices+I+own+are+Realme+7+and+Mi+A2.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFFBF9&width=435&lines=-+%F0%9F%93%AB+You+can+reach+me+through+telegram+%40Ksauraj.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%8C%B1+Currently+a+12th+grade+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%91%80+Languages%2FTools+I+know+are+Bash%2C+Python%2C+C%2FC%2B%2B+(basics)%2C+HTML5%2C+CSS%2C+JAVA+(basics).)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%92%9E%EF%B8%8F+I've+keen+interest+in+AI+and+Data+Science.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%91%80+I%E2%80%99m+interested+in+automating+stuffs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%93%B1+Devices+I+own+are+Realme+7+and+Mi+A2.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=FFFBF9&width=100&lines=-+%F0%9F%93%AB+You+can+reach+me+through+telegram+%40Ksauraj.)](https://git.io/typing-svg)
 
 ### ⚙️ &nbsp;Sauraj's GitHub Analytics
 <p align="left">
