@@ -30,7 +30,8 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noobyysauraj&rank=-C,-B&theme=dark_lover)
+### 🏆 My Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=noobyysauraj&rank=-C,-B&no-bg=true)](https://github.com/noobyysauraj)
 
 </p>
 <p align="center">
