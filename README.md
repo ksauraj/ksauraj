@@ -12,7 +12,7 @@
 </a>
 </p>
 <p align = "left">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ksauraj&theme=high-contrast">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksauraj&theme=high-contrast">
 </p>  
 
 [![@ksauraj's Holopin board](https://holopin.io/api/user/board?user=noobyysauraj)](https://holopin.io/@noobyysauraj)
