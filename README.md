@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=+PT+Serif+&size=14&duration=2000&pause=500&color=5DD8FF&multiline=true&repeat=false&width=1050&height=130&lines=%F0%9F%8E%93+High+school+senior+on+a+journey+of+curiosity+and+growth.;%F0%9F%A4%96+Fueled+by+AI+and+Data+Science+passion%2C+intrigued+by+low-level+languages.;%F0%9F%92%BB+Proficient+in+a+spectrum+of+languages%2Ftools+including+Bash%2C+Python%2C+C%2FC%2B%2B+(fundamentals)%2C+CSS%2C+and+JAVA+(foundations).;%F0%9F%8C%9F+Enthusiastic+about+automating+tasks+and+finding+joy+in+casual+gaming.;%F0%9F%93%B1+Always+within+reach%2C+my+companions%3A+Realme+GT+Neo+3t+%2F+Realme+7+and+Mi+A2.;%F0%9F%93%AC+Let's+connect!+Reach+out+to+me+on+Telegram+%40Ksauraj.)](https://git.io/typing-svg)
 
-### ⚙️ &nbsp;Sauraj's GitHub Analyticshttps://github.com/ksauraj/ksauraj/edit/main/README.md
+### ⚙️ &nbsp;Sauraj's GitHub Analytics
 <p align="left">
 <a href="https://github.com/ksauraj">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ksauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
