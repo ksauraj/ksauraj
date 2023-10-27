@@ -1,6 +1,13 @@
 <h2>Welcome! <a href="https://github.com/ksauraj"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ksauraj" alt="Visitors"></a></h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E05D44&random=false&width=600&lines=Hey+there!+It's+Sauraj...;Passionate+19-year-old%2C+open+source+explorer;Android+and+Linux+enthusiast;Computer+Science+explorer%2C+project+builder"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+PT+Serif+&size=14&duration=2000&pause=500&color=5DD8FF&multiline=true&repeat=false&width=1050&height=130&lines=%F0%9F%8E%93+High+school+senior+on+a+journey+of+curiosity+and+growth.;%F0%9F%A4%96+Fueled+by+AI+and+Data+Science+passion%2C+intrigued+by+low-level+languages.;%F0%9F%92%BB+Proficient+in+a+spectrum+of+languages%2Ftools+including+Bash%2C+Python%2C+C%2FC%2B%2B+(fundamentals)%2C+CSS%2C+and+JAVA+(foundations).;%F0%9F%8C%9F+Enthusiastic+about+automating+tasks+and+finding+joy+in+casual+gaming.;%F0%9F%93%B1+Always+within+reach%2C+my+companions%3A+Realme+GT+Neo+3t+%2F+Realme+7+and+Mi+A2.;%F0%9F%93%AC+Let's+connect!+Reach+out+to+me+on+Telegram+%40Ksauraj.)](https://git.io/typing-svg)
+- Undergraduate IT Engineering Freshman on a quest for learning and growth
+- Passionate about AI, Data Science, and exploring coding languages.
+- Skilled in various languages/tools: Bash, Python, C/C++ (basics), CSS, and JAVA (foundations).
+- Enjoy automating tasks and casual gaming.
+- My trusty companions: Realme GT Neo 3t, Realme 7, Acer Aspire 3 A315-41, Acer Nitro V 15 and Mi A2.
+- Let's connect! Find me on Telegram @ksauraj.
+
 
 ### ⚙️ &nbsp;Sauraj's GitHub Analytics
 <p align="left">
