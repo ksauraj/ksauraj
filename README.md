@@ -15,7 +15,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksauraj&theme=high-contrast">
 </p>  
 
-[![@ksauraj's Holopin board](https://holopin.io/api/user/board?user=noobyysauraj)](https://holopin.io/@noobyysauraj)
+[![An image of @ksauraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noobyysauraj)](https://holopin.io/@noobyysauraj)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](/github-metrics.svg)
