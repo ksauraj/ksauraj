@@ -3,7 +3,7 @@
 
 - Undergraduate IT Engineering Freshman on a quest for learning and growth
 - Passionate about AI, Data Science, and exploring coding languages.
-- Skilled in various languages/tools: Bash, Python, C (Programming Language), CSS, and Go.
+- Skilled in various languages/tools: Bash, Python, C (Programming Language), and Go.
 - Enjoy automating tasks and casual gaming.
 - My trusty companions: Realme GT Neo 3t, Realme 7, Acer Aspire 3 A315-41, Acer Nitro V 15 and Mi A2.
 - Let's connect! Find me on Telegram @ksauraj.
