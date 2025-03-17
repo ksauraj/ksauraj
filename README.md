@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ksauraj&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ksauraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksauraj&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksauraj&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true&hide=Jupyter%20Notebook" />
 </a>
 </p>
 <p align = "left">
